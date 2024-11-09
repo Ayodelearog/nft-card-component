@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Ayodelearog/nft-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Hosted site](https://nft-card-component-m3ou.vercel.app/)
 
 
 ### Built with
